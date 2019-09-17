@@ -5,3 +5,7 @@ https://www.hackerrank.com/challenges/battleship/problem
 Ranking: 
   26th in World
   1st in Country (Romania)
+
+This AI uses mainly 2 of the most powerful tactics:
+  -Hunt Mode (aka picking the right cells after finding the position of a ship)
+  -Grid Mode (aka searching in the cells with the same parity, like black tiles for instance)
