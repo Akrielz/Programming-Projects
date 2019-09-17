@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1530227081 source:f:\code blocks projects\labyrinth generator\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+
