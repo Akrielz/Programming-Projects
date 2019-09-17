@@ -1,0 +1,9 @@
+This is the AI that I've created for this problem:
+https://www.hackerrank.com/challenges/maze-escape
+
+Rank:
+  70th in World
+  2nd in Country (Romania)
+
+The thing that makes this AI so good is simply the factor that the map doesn't change, so it runs a couple of movements until it
+can be 100% sure where its real position in the map is and then just follows the shortest path.
