@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1547477690 source:d:\programming projects\codeblocks projects\ip project - battleships\main.cpp
+	<chrono>
+	<ctime>
+	<fstream>
+	<graphics.h>
+	<iomanip>
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
+1547643383 source:d:\programming projects\finished projects\battleships\code - project\main.cpp
+	<chrono>
+	<ctime>
+	<fstream>
+	<graphics.h>
+	<iomanip>
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
