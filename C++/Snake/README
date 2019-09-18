@@ -1,0 +1,22 @@
+Release Date: 
+  -2016 (When I was 10th grade, second semester)
+
+Accepted Inputs:
+  -The arrows for nagivating and moving
+  -Enter for confirming in the menu, and toggling the pause in the game
+  -Escape to exit the game
+
+Known Bugs:
+  -The bigger you are, the slower the game runs
+  -If the walls are deactivted, in some corners the teleportation of the snake isn't made properly
+  -After a while, it will start working with 2 frames behind, this usually in pre-taken inputs for the next frame
+
+Highlighted features:
+  -Colors on Skane and Selector
+  -Walls
+  -Special food after 5 pieces of food
+
+Personal Data:
+  -This game was one of my biggest projects back then, because it involved some kind of "graphics" while it was still using the
+  characters from the console just colored in a different way, so I had to simulate the idea of rendering continous frames.
+  -This is a personal tribute for the Snake game from the Nokia, that I raised with.
