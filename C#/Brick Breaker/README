@@ -1,0 +1,5 @@
+Accepted Inputs:
+  It will follow directly the cursor's position.
+  
+Known Bugs:
+  Sometimes the ball gets stuck near vertical edges of the app.
