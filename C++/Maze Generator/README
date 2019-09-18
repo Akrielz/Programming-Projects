@@ -1,0 +1,10 @@
+Release Date: 
+  -2018 (When I was 12th grade, second semester)
+
+Accepted Inputs:
+  -None
+
+How to use:
+  -This program will automatically generate a maze on a n^2 map and solve it.
+  -The n in the project is called "usedLength" and can be changed to any value that has the form of: 2^p+1
+  (ex for p = 5, n = 2^5+1 = 32 + 1 = 33) and then recompiled to have the wished dimensions.
