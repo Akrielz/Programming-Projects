@@ -1,0 +1,11 @@
+Release Date: 
+  -2015 (When I was 10th grade, first semester)
+
+Accepted inputs:
+  -Let us denote n = number of sides, s = size, and a = answer to fill or not. The n value can be any positive number,
+  the s value can be anything from the interval [1-200] (I recommend 100), and the a can be any char, but if it is 
+  'y' or 'Y', it will be considered as an yes.
+  
+How to use it:
+  -You simply run the program, give the proper inputs, and then a file called "display.out" will be made, if you open
+  the file with any text editor that allows zooming in or out, you will be able to see the poligon made
