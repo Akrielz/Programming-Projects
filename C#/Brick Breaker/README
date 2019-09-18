@@ -7,3 +7,7 @@ Accepted Inputs:
 Known Bugs:
   -Sometimes the ball gets stuck near vertical edges of the app.
   -The track of the mouse isn't necesarrily fluid.
+
+Highlighted Features:
+  -The more bricks you destroy, the faster the ball will be
+  -The speed from the ball remains from the previous level if you win
