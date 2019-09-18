@@ -1,10 +1,13 @@
+Release Date:
+  -2018 (When I was in 12th grade, second semester)
+
 This is the AI that I proposed for this particular problem:
 
 https://www.hackerrank.com/challenges/battleship/problem
 
 Ranking: 
-  26th in World
-  1st in Country (Romania)
+  -26th in World
+  -1st in Country (Romania)
 
 This AI uses mainly 2 of the most powerful tactics:
   -Hunt Mode (aka picking the right cells after finding the position of a ship)
