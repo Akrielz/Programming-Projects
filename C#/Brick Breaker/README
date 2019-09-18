@@ -1,9 +1,9 @@
 Release Date: 
-  2016 (When I was 10nth grade, second semester)
+  -2016 (When I was 10nth grade, second semester)
 
 Accepted Inputs:
-  It will follow directly the cursor's position.
+  -It will follow directly the cursor's position.
   
 Known Bugs:
-  Sometimes the ball gets stuck near vertical edges of the app.
-  The track of the mouse isn't necesarrily fluid.
+  -Sometimes the ball gets stuck near vertical edges of the app.
+  -The track of the mouse isn't necesarrily fluid.
