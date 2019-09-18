@@ -12,7 +12,7 @@ Known Bugs:
   -After a while, it will start working with 2 frames behind, this usually in pre-taken inputs for the next frame
 
 Highlighted features:
-  -Colors on Skane and Selector
+  -Colors on Snake and Selector
   -Walls
   -Special food after 5 pieces of food
 
