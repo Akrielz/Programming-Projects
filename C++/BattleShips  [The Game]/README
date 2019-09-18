@@ -1,0 +1,26 @@
+Release Date: 
+  -2018 (When I was first year of college, first semester)
+
+Accepted Inputs:
+  -Right Click
+
+Highlighted features:
+  -Two Game Modes (aka Classic and Modern)
+  -8 AIs (4 for Classic, 4 for Modern)
+  -3 Languages (English, Romanian, French)
+  -Reveal Mode
+  -The Hard AIs are hardcore, using strategies of HuntMode, GridMode and Statistic BackTracking
+  -Match History
+
+Known Bugs:
+  -If the game is run for long enough, it will start to missread some inputs, and close your turn without any shots taken
+  -The Bonus Chest mode isn't implemented yet
+
+Important Notes:
+  -If you want to compile the game from the code-project, you will have to install the graphics.h library
+  -The AI featured in Modern Mode on Hard is actually better than the one submitted on HackerRank, having an average of ~37 hits
+  (out of 100) before winning the game
+ 
+Personal Data:
+  -This game was made as a project for the class "Introduction in Programming (IP)" and it was supposed to be made in C, but
+  certain featured from C++ were allowed (such as reading input using streams)
