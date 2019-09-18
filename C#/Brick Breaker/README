@@ -6,3 +6,4 @@ Accepted Inputs:
   
 Known Bugs:
   Sometimes the ball gets stuck near vertical edges of the app.
+  The track of the mouse isn't necesarrily fluid.
