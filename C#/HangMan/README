@@ -1,0 +1,12 @@
+Release Date: 2015 (When I was 10nth grade)
+
+How to use it:
+  The file "words.in" works as a "database" for the actual game, always taking random words from there.
+
+Accepted Inputs:
+  Any letter of the alfabet
+  
+Known Bugs:
+  If you modify the words.in to have digits or other non-letters, the game will become impossible
+  
+  
