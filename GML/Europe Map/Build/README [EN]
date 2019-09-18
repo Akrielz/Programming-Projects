@@ -1,0 +1,39 @@
+Release Date: 
+  -2017 (When I was 12th grade, first semester)
+
+How to use it:
+  You have to download the data.rar and the application, and to extract the data.rar in the same folder with the app.
+
+Accepted Inputs:
+  Movement:
+    -WASD or The Arrows to move
+    -Right Click to teleport
+
+  Time:
+    -P to toggle the time.
+    -F1 to set the time in Spring
+    -F2 to set the time in Summer
+    -F3 to set the time in Fall
+    -F4 to set the time in Winter
+    -F7 or '-' (minus) to make the time slower
+    -F8 or '+' (plus) to make the time faster
+
+  Weather:
+    -F5 to toggle down fall (aka rain or snow depending on the temperature val)
+  
+  Credits:
+    -Esc for starting the credits.
+
+
+Highlighted Features:
+  -An accurate map with accurate hitboxes
+  -Minimap
+  -Rain/Snow
+  -Actual valid data about each country
+
+Personal Data:
+  -This project was made with Game Maker Studio 2.
+  -This project was made with my deskmate Tudor as an excuse not to learn some things related to
+  temperatures and winds in Europe at geography
+  -This project was later used as an educative tool for children (at least this is what I was told)
+  -This project was also my license project for programming in HighSchool
