@@ -16,6 +16,10 @@ Highlighted features:
   -Walls
   -Special food after 5 pieces of food
 
+Important Notes:
+  -After running the game, Settings and HighScore files will appear to store the related info. If you want your progress to be held
+  just move the game with those files as well.
+
 Personal Data:
   -This game was one of my biggest projects back then, because it involved some kind of "graphics" while it was still using the
   characters from the console just colored in a different way, so I had to simulate the idea of rendering continous frames.
