@@ -1,5 +1,5 @@
-# Programming-Projects
-This is the repository for my personal projects
+# Programming-Projects (in HighSchool)
+This is the repository for my personal projects during the HighSchool
 
 Every project is structured in two folders:
   -Build (aka the compiled version of the program)
